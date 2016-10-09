@@ -1,0 +1,19 @@
+{
+  "name": "moqie-render",
+  "version": "0.0.1",
+  "author": "Linkjun <pk.link@163.com>",
+  "license": "MIT",
+  "description": "moqie",
+  "keywords": [
+    "moqie"
+  ],
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cqol/moqie-render.git"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
