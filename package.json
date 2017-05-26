@@ -1,5 +1,5 @@
 {
-  "name": "moqie-render",
+  "name": "m-render",
   "version": "0.0.1",
   "author": "",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cqol/moqie-render.git"
+    "url": "https://github.com/cqol/m-render.git"
   },
   "scripts": {
   },
